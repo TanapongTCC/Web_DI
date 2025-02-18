@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Web_DI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1C282C-5EB8-4A16-9874-1AEA23FB7FAE}|Web_DI\\Web_DI.csproj|d:\\github\\web_di\\web_di\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB1C282C-5EB8-4A16-9874-1AEA23FB7FAE}|Web_DI\\Web_DI.csproj|solutionrelative:web_di\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1C282C-5EB8-4A16-9874-1AEA23FB7FAE}|Web_DI\\Web_DI.csproj|d:\\github\\web_di\\web_di\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB1C282C-5EB8-4A16-9874-1AEA23FB7FAE}|Web_DI\\Web_DI.csproj|solutionrelative:web_di\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1C282C-5EB8-4A16-9874-1AEA23FB7FAE}|Web_DI\\Web_DI.csproj|d:\\github\\web_di\\web_di\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB1C282C-5EB8-4A16-9874-1AEA23FB7FAE}|Web_DI\\Web_DI.csproj|solutionrelative:web_di\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1C282C-5EB8-4A16-9874-1AEA23FB7FAE}|Web_DI\\Web_DI.csproj|d:\\github\\web_di\\web_di\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1C282C-5EB8-4A16-9874-1AEA23FB7FAE}|Web_DI\\Web_DI.csproj|solutionrelative:web_di\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1C282C-5EB8-4A16-9874-1AEA23FB7FAE}|Web_DI\\Web_DI.csproj|d:\\github\\web_di\\web_di\\web_di.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DB1C282C-5EB8-4A16-9874-1AEA23FB7FAE}|Web_DI\\Web_DI.csproj|solutionrelative:web_di\\web_di.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1C282C-5EB8-4A16-9874-1AEA23FB7FAE}|Web_DI\\Web_DI.csproj|d:\\github\\web_di\\web_di\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB1C282C-5EB8-4A16-9874-1AEA23FB7FAE}|Web_DI\\Web_DI.csproj|solutionrelative:web_di\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Github\\Web_DI\\Web_DI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web_DI\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Github\\Web_DI\\Web_DI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web_DI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:54:58.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web_DI",
+              "DocumentMoniker": "D:\\Github\\Web_DI\\Web_DI\\Web_DI.csproj",
+              "RelativeDocumentMoniker": "Web_DI\\Web_DI.csproj",
+              "ToolTip": "D:\\Github\\Web_DI\\Web_DI\\Web_DI.csproj",
+              "RelativeToolTip": "Web_DI\\Web_DI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T09:51:10.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Github\\Web_DI\\Web_DI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Web_DI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Github\\Web_DI\\Web_DI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Web_DI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T09:50:56.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Github\\Web_DI\\Web_DI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web_DI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Github\\Web_DI\\Web_DI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web_DI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADECAAAAAAAAAAAUwEkCAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T09:37:46.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Layout.cshtml",
+              "DocumentMoniker": "D:\\Github\\Web_DI\\Web_DI\\Views\\Shared\\Layout.cshtml",
+              "RelativeDocumentMoniker": "Web_DI\\Views\\Shared\\Layout.cshtml",
+              "ToolTip": "D:\\Github\\Web_DI\\Web_DI\\Views\\Shared\\Layout.cshtml",
+              "RelativeToolTip": "Web_DI\\Views\\Shared\\Layout.cshtml",
+              "ViewState": "AQIAAFcCAAAAAAAAAAAUwH8CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T09:18:05.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Github\\Web_DI\\Web_DI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web_DI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Github\\Web_DI\\Web_DI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Web_DI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T09:14:14.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
